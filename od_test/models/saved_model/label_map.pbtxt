@@ -1,0 +1,61 @@
+{1: {
+  "name": "band",
+  "id": 1
+},
+2: {
+  "name": "remote_control",
+  "id": 2
+},
+3: {
+  "name": "multi_outlet",
+  "id": 3
+},
+4: {
+  "name": "pet",
+  "id": 4
+},
+5: {
+  "name": "poo_pad",
+  "id": 5
+},
+6: {
+  "name": "laundry",
+  "id": 6
+},
+7: {
+  "name": "slipper",
+  "id": 7
+},
+8: {
+  "name": "chair_legs",
+  "id": 8
+},
+9: {
+  "name": "toy",
+  "id": 9
+},
+10: {
+  "name": "electric_wire",
+  "id": 10
+},
+11: {
+  "name": "stand",
+  "id": 11
+},
+12: {
+  "name": "poo",
+  "id": 12
+},
+13: {
+  "name": "curtain",
+  "id": 13
+},
+14: {
+  "name": "stationary",
+  "id": 14
+},
+15: {
+  "name": "smart_phone",
+  "id": 15
+}
+}
